@@ -22,7 +22,7 @@ export class Home extends React.Component {
         </div>
         <Container>
           <div className="intro">
-            <img src={details.avatar} alt="kien dang" className="mb-4" />
+            <img src={details.avatar} alt="Matthew McCracken" className="mb-4" />
 
             <h1 className="mb-2 mt-0">
               {details.firstName}
