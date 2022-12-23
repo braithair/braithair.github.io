@@ -1,66 +1,60 @@
 {
   "education": [
     {
-      "period": "2017 – 2018",
-      "school": "Queensland University of Technology",
-      "degree": "Master of Information Technology (Data Science)",
+      "period": "2018-2019",
+      "school": "Amazon Learning",
+      "degree": "Cloud Solution Architect",
       "description": ""
     },
     {
-      "period": "2014 – 2015",
-      "school": "Arena Multimedia",
-      "degree": "Certificate in Multimedia (Graphics, Web Design & Development certificate)",
+      "period": "2012 – 2015",
+      "school": "Bachelor of Information Technology and Systems",
+      "degree": "Swinburne University",
       "description": ""
     },
     {
-      "period": "2009 – 2011",
-      "school": "The University of Greenwich",
-      "degree": "Bachelor of Science Computing (Computer Science)",
+      "period": "2010 – 2011",
+      "school": "Tamborine High School",
+      "degree": "Diploma of Business and Economics",
       "description": ""
-    },
-    {
-      "period": "2007 – 2009",
-      "school": "Aptech Computer Education",
-      "degree": "Higher Diploma in Software Engineering",
-      "description": ""
-    },
-    {
-      "period": "2006 – 2007",
-      "school": "Aptech Computer Education",
-      "degree": "Diploma in Information System Management",
-      "description": "<p>&nbsp;<\/p>"
     }
   ],
   "career": [
     {      
-      "period": "2020 - Present",
-      "company": "Cooper Grace Ward Lawyers",
-      "title": "Microsoft .NET Developer",
+      "period": "2022 - Present",
+      "company": "Eagers Automotive Limited",
+      "title": "Transformation and Change Lead",
       "description": "<p>Brisbane, Queensland, Australia<\/p>"
     },
-    {      
-      "period": "2019 - 2020",
-      "company": "Locatrix",
-      "title": "Software Engineer",
+    {
+      "period": "2019 - 2022",
+      "company": "Eagers Automotive Limited",
+      "title": "National IT Services Manager",
       "description": "<p>Loganholme, Queensland, Australia<\/p>"
     },
-    {      
-      "period": "2017 - 2019",
-      "company": "Sol Edu Pty Ltd",
-      "title": "Senior Software Programmer",
-      "description": "<p>Brisbane, Queensland, Australia<\/p>"
+    {
+      "period": "2018 - 2019",
+      "company": "Eagers Automotive Limited",
+      "title": "Cloud Solution Architect",
+      "description": "<p>Loganholme, Queensland, Australia<\/p>"
     },
-    {      
-      "period": "2013 - 2015",
-      "company": "Vietnam Education Foundation",
-      "title": "IT and Data Specialist",
-      "description": ""
+    {
+      "period": "2016 - 2018",
+      "company": "Eagers Automotive Limited",
+      "title": "Communication System Designer and Analyst",
+      "description": "<p>Loganholme, Queensland, Australia<\/p>"
     },
-    {      
-      "period": "2011 - 2013",
-      "company": "IDP Education Pty Ltd",
-      "title": "IT Officer",
-      "description": ""
+    {
+      "period": "2013 - 2016",
+      "company": "Eagers Automotive Limited",
+      "title": "Network and Systems Engineer",
+      "description": "<p>Loganholme, Queensland, Australia<\/p>"
+    },
+    {
+      "period": "2010 - 2013",
+      "company": "Eagers Automotive Limited",
+      "title": "IT Field Technician",
+      "description": "<p>Loganholme, Queensland, Australia<\/p>"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
-  "firstName": "kien",
+  "firstName": "matthew",
   "middleName": ".",
-  "lastName": "dang",
+  "lastName": "mccracken",
   "avatar": "\/images\/avatar.svg",
   "titles": [
-    "Microsoft .NET developer",
-    "Front-End developer",
-    "Data scientist"
+    "Cloud Architect",
+    "Operations Leader",
+    "Transformation and Change Lead"
   ],
   "socialNetworks": [
     {
-      "link": "https://github.com/kien-dang/react-resume-template",
+      "link": "https://github.com/braithair/",
       "iconName": "faGithub"
     },
     {
-      "link": "https://www.linkedin.com/in/trung-kien-dang",
+      "link": "https://www.linkedin.com/in/matthewjohnmccracken/",
       "iconName": "faLinkedin"
     }
   ]

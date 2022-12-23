@@ -5,48 +5,48 @@
   "resumeUrl": "#",
   "skills": [
     {
-      "name": ".NET Core",
+      "name": "AWS Cloud",
       "confidence": 95,
       "color": "rgb(255, 209, 92)"
     },
     {
-      "name": "NoSQL",
+      "name": "Azure Cloud",
       "confidence": 85,
       "color": "rgb(108, 108, 229)"
     },
     {
       "name": "TypeScript",
-      "confidence": 80,
+      "confidence": 70,
       "color": "rgb(255, 76, 96)"
     },
     {
-      "name": "GraphQL",
-      "confidence": 90,
+      "name": "ReactJS",
+      "confidence": 85,
       "color": "rgb(51, 105, 30)"
     }
   ],
   "statistics": [
     {
-      "number": 28,
-      "title": "Open-source projects",
+      "number": 8475,
+      "title": "Supported Staff",
       "iconPrefix": "fab",
       "iconName": "osi"
     },
     {
-      "number": 59,
-      "title": "Projects completed",
+      "number": 260,
+      "title": "Locations managed",
       "iconPrefix": "fas",
       "iconName": "tasks"
     },
     {
-      "number": 3285,
-      "title": "Cup of coffee",
+      "number": 52,
+      "title": "Team Members Lead to victory",
       "iconPrefix": "fas",
       "iconName": "coffee"
     },
     {
-      "number": 2,
-      "title": "Publications",
+      "number": 4,
+      "title": "Applications Deployed",
       "iconPrefix": "far",
       "iconName": "newspaper"
     }
