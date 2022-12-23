@@ -18,7 +18,7 @@
     "@types/styled-components": "^5.1.26",
     "bootstrap": "^5.2.0",
     "gh-pages": "^4.0.0",
-    "node-sass": "^7.0.1",
+    "node-sass": "^8.0.0",
     "rc-slider": "^10.1.0",
     "react": "^18.2.0",
     "react-animation": "^1.2.2",
@@ -37,8 +37,8 @@
     "tsparticles-engine": "^2.2.2"
   },
   "scripts": {
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "webpack serve --open",
     "build": "webpack --config webpack.config.ts",
     "dev": "webpack serve --static ./build --hot --port 3000 --open"
