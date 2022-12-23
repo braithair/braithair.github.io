@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\braithair-github-io",
+    "\\braithair-github-io\\src",
+    "\\braithair-github-io\\src\\data",
+    "\\braithair-github-io\\src\\sections"
   ],
-  "SelectedNode": "\\C:\\src\\braithair.github.io",
+  "SelectedNode": "\\braithair-github-io",
   "PreviewInSolutionExplorer": false
 }
